@@ -36,6 +36,6 @@ Once you click Deploy, you'll see a new dialog with a message indicating that yo
 The first is labeled Current web app URL and ends in /exec. This URL is for the published version of your app, based on the last version you saved and deployed.
 The second is the link labeled latest code and ends in /dev. This URL can only be accessed by users who have edit access to the script. This instance of the app always runs the most recently saved code — not necessarily a formal version — and is intended for quick testing during development.
 
-## All is set and it should now work smoothly as whown in this video. 
+## All is set and it should now work smoothly as shown in this video. 
 
 [![image](https://cloud.githubusercontent.com/assets/7078331/25797243/9eb89cec-3399-11e7-9538-614b0eff13ba.png)](https://www.youtube.com/watch?v=9375kF84GRc "ImpressPages CMS forms to Google Sheets")
